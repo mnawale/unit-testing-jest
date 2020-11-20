@@ -1,4 +1,4 @@
-const cloneArray = require("./coneArray")
+const cloneArray = require("./cloneArray")
 
 test("Properly cloned  array", () => {
     const array = [1,2,3]
